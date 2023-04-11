@@ -1,2 +1,1 @@
-# IBM_Project
-A Data Science project
+Capstone Project for IBM Data Science Professional Certification Course
